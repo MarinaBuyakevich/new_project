@@ -107,6 +107,7 @@ input{
 .button-div{
   width: 600px;
   height: 55px;
+  margin-top: -30px;
 }
 
 .button{
