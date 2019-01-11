@@ -1,0 +1,125 @@
+.form{
+  width: 450px;
+  height: 460px;
+}
+
+.button_az{
+  display: inline-block;
+  margin: 3px;
+  background-color: rgba(242, 242, 242, 0.27);
+  padding: 2px 1px 0 2px;
+}
+
+.table{
+  border: 1px solid #b0b0b0;
+  vertical-align: top;
+  background-color: rgba(255, 255, 255, 0.27);
+  width: 500px;
+  height: 417px;
+  overflow: scroll;
+  position: relative;
+}
+
+.block{
+  display: inline-block;
+  width: 95%;
+  left: 0;
+}
+
+.font{
+  background-color: rgba(173, 216, 230, 0.38);
+  padding: 2px 95px 0 5px;
+  width: 360px;
+  position: absolute;
+}
+
+.fon_Grid_Lines{
+  background-color: rgba(173, 216, 230, 0.38);
+  padding: 1px 26px 1px 0;
+  width: 227px;
+}
+
+.left{
+  width: 50%;
+  display: inline-block;
+  float: left;
+}
+
+.right{
+  width: 50%;
+  display: inline-block;
+  float: right;
+}
+
+p {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+  margin-left: 30px;
+}
+
+.text_2{
+  margin: 0 0 0 30px;
+  width: 90%;
+}
+
+.Div_2{
+  margin:-1px 0 0 30px;
+  width: 90%;
+  line-height: 1.6;
+}
+
+.Div_4 {
+  width: 90%;
+  line-height: 1.5;
+  margin-left: 30px;
+  margin-top: 25px;
+}
+
+.Div_5{
+  margin: 8px 0 0 30px;
+  width: 90%;
+  line-height: 1.5;
+  padding: 20px 0 0 0;
+}
+
+.color{
+  width: 20px;
+  height: 20px;
+  margin: 0 7px 0 0 ;
+}
+
+select{
+  width: 109%;
+  border: initial;
+}
+
+input{
+  width: 95%;
+  border: aliceblue;
+}
+
+.button-grey{
+  width: 23px;
+  height: 20px;
+  background-color: rgba(173, 216, 230, 0.38);
+}
+
+.button-div{
+  width: 600px;
+  height: 55px;
+}
+
+.button{
+  display: inline;
+  width: auto;
+  margin: 10px 83px 0 0;
+}
+
+.button-little{
+  width: 28px;
+  height: 20px;
+  background-color: grey;
+}
+
+
+
